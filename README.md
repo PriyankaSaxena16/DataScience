@@ -1,2 +1,2 @@
 # DataScience
-Consists of data science algorithms
+Consists of practising of data science algorithms
